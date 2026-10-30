@@ -1,0 +1,11 @@
+{
+  "name": "das-2026-capstone-project",
+  "version": "1.0.0",
+  "description": "Event Ticketing and Booking Capstone Platform",
+  "type": "module",
+  "scripts": {
+    "demo": "node src/demo.js",
+    "benchmark": "node src/benchmark.js",
+    "test": "node --test"
+  }
+}
